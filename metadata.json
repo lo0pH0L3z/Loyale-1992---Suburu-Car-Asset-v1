@@ -1,0 +1,6 @@
+{
+  "name": "Subaru Loyale Physics Sandbox",
+  "description": "Kinetic 3D physics driving sandbox for the 1992 Subaru Loyale with terrain slopes, real-time performance dashboard, and interactive camera controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
